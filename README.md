@@ -42,7 +42,7 @@ To run PortSpy, follow these steps:
 
 
 
-Requirements
+## Requirements
 
          Nmap: Make sure you have Nmap installed on your system.
         
@@ -50,21 +50,21 @@ Requirements
 
 
 
-License
+## License
 
         This project is licensed under the MIT License.
 
 
-Contributing
+## Contributing
 
         Contributions to PortSpy are welcome! Feel free to open issues and submit pull requests to help improve the script.
 
 
-Disclaimer
+## Disclaimer
 
         PortSpy is intended for authorized use only. Please ensure that you have proper authorization before scanning any network or system.
 
 
-Acknowledgements
+## Acknowledgements
 
     Nmap: The powerful and flexible network scanning tool.
