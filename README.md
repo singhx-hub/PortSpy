@@ -21,15 +21,19 @@ This script simplifies the process of conducting basic port scans, OS detection,
 To run PortSpy, follow these steps:
 
 1. Clone the repository:
-        git clone https://github.com/singhx-hub/portspy.git
+        
+        git clone https://github.com/singhx-hub/PortSpy.git
 
 2. Navigate to the script directory:
+ 
         cd portspy
 
 3. Make the script executable (if needed):
-         chmod +x portspy.sh
+                   
+        chmod +x portspy.sh
 
 4. Run the script using the following command:
+            
         ./portspy.sh
 
 5. Choose an option from the provided menu, enter the target IP address, and let PortSpy perform the scan.
@@ -40,23 +44,25 @@ To run PortSpy, follow these steps:
 
 Requirements
 
-    Nmap: Make sure you have Nmap installed on your system.
+         Nmap: Make sure you have Nmap installed on your system.
+        
+
 
 
 
 License
 
-This project is licensed under the MIT License.
+        This project is licensed under the MIT License.
 
 
 Contributing
 
-Contributions to PortSpy are welcome! Feel free to open issues and submit pull requests to help improve the script.
+        Contributions to PortSpy are welcome! Feel free to open issues and submit pull requests to help improve the script.
 
 
 Disclaimer
 
-PortSpy is intended for authorized use only. Please ensure that you have proper authorization before scanning any network or system.
+        PortSpy is intended for authorized use only. Please ensure that you have proper authorization before scanning any network or system.
 
 
 Acknowledgements
